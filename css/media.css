@@ -1,0 +1,669 @@
+@media (min-width: 300px) and (max-width: 519px){
+.down-part .white-bg .similar span:nth-child(6) {margin-right: 133px !important;}
+
+.upper-part .third-part .first h6 {margin-right: 23px !important;}
+.upper-part .third-part .first .facebook h6 {margin-left: 38px !important;}
+.upper-part .third-part .first .google h6 {margin-right: 20px !important;}
+
+}
+
+
+
+/* extra small */
+/* Small devices (landscape phones, 576px and up) */
+@media (max-width: 767px) {  
+ /* start  header , navbar , first part */
+header{height: 53px;}
+
+/* nav bar */
+nav .fa-laptop {
+font-size: 1.5em ; position: absolute;top: 14px; left: 0; }
+
+.navbar{height: 53PX;}
+
+.the-navbar{width: 33%; padding-left: 14px;}
+.the-navbar h2 {margin-left: 10px; font-size: 20px; position: absolute; line-height: 53px;}
+
+.navbar-light .navbar-toggler {position: absolute; right: 10px;}
+
+.navbar-light .navbar-nav .nav-link  {
+background-color: #fff;
+border:none; 
+padding: 3px 0px 3px 10px;}
+
+.navbar ul{position: absolute; right: -50px;}
+
+.navbar ul li:first-child{margin-left: 10px; margin-top: 20px;}
+.navbar ul li{width: 140px; border:none; margin:10px;}
+.navbar .fa-search{
+	position: absolute;
+	right: -34px;
+    top: 383px;
+	width: 124px;
+	border:none; margin:10px;
+	background: #fff;  
+	padding: 10px;}
+/* nav bar*/
+
+
+/* start upper part .. first part */
+.upper-part .first-part h1{margin-left: 20px; font-size: 20px;}
+
+.upper-part .first-part h1:first-child{
+padding-top: 40px;
+padding-bottom: 20px;
+font-size: 20px;}
+
+.upper-part .first-part .first h5 {margin-left: 0;}
+.upper-part .first-part .first span {
+display: block; 
+margin-top: 14px;
+margin-left: 0;}
+
+.upper-part .first-part .first img{margin-left: 100px; float: left;}
+
+.upper-part .first-part .last-img img {
+margin-left: 13px;
+margin-top: 5px;
+margin-bottom: 13px;
+width: 40px;
+height: 40px;}
+
+.upper-part .first-part .last-img h6 {top: 18px; margin-bottom: 20px;}
+/* end upper part .. first part */
+
+/* start upper part .. second part */
+.upper-part .second-part{position: relative;}
+.upper-part .second-part .first{width: 50%; padding: 10px;}
+.upper-part .second-part .first i{font-size:16px;padding:5px;  position: absolute;  top: 40px;}
+.upper-part .second-part .first h4{padding: 28px 10px 21px 33px;font-size: 21px}
+.upper-part .second-part .first h6 {margin: 0 5px 10px -10px; font-size: 13px;}
+.upper-part .second-part .first h5 {padding-left:10px; font-size: 12px;}
+.upper-part .second-part .first p{padding: 10px 10px 5px 10px; font-size: 15px; }
+.upper-part .second-part .first img{margin-left: 10px;}
+
+.upper-part .second-part .second{width: 50%; padding: 0 20px 0px 20px;}
+.upper-part .second-part .second form {padding:130px 0px 0px 3px;}
+.upper-part .second-part .second form input[type="text"] {width: 150px;}
+.upper-part .second-part .second form label {font-size: 13px;}
+.upper-part .second-part .second form input[type="date"] {width: 50px;}
+.upper-part .second-part .second form span {font-size: 10px;}
+.upper-part .second-part .second form input[type="number"]{width: 47px; }
+.upper-part .second-part .second form h6:nth-child(3) {margin-right: 17px;}
+.upper-part .second-part .second form h6:nth-child(9){font-size: 12px;}
+.upper-part .second-part .second form h6:nth-child(10){ font-size: 11px;}
+.upper-part .second-part .second form h6:nth-child(11){font-size: 11px;}
+.upper-part .second-part .second form input[type="submit"]{width: 70px;}
+
+.upper-part .second-part .third{position: relative;  width: 50%;}
+.upper-part .second-part .third i{font-size:16px;padding:5px;  position: absolute;  top: 40px;}
+.upper-part .second-part .third i{font-size:16px;padding:5px;  position: absolute;  top: 40px;}
+.upper-part .second-part .third h4{padding: 28px 10px 21px 33px;font-size: 21px}
+.upper-part .second-part .third h6 {margin: 0 5px 10px 0px; font-size: 13px;}
+.upper-part .second-part .third h5 {padding-left:10px; font-size: 12px;}
+.upper-part .second-part .third p{padding: 20px 10px 5px 10px; font-size: 15px; }
+.upper-part .second-part .third img{margin-left: 10px;}
+
+.upper-part .second-part .fourth{width: 50%;}
+.upper-part .second-part .fourth .images ul {list-style: none; padding-top: 0;}
+.upper-part .second-part .fourth .images ul li {padding-top: 32px;margin-left: -33px;}
+.upper-part .second-part .fourth img {border-radius: 50%;}
+.upper-part .second-part .fourth .status ul{list-style: none; padding-left: 30px;}
+.upper-part .second-part .fourth .status p{padding-top: 5px; margin-right: 10px;}
+/* end upper part .. second part */
+
+
+/* start upper part .. third part */
+.upper-part .third-part .first{width:50%;}
+.upper-part .third-part .first h6 ,
+.upper-part .third-part .first .google h6 ,
+.upper-part .third-part .first .instgram h6 { margin-right: 60px;}
+
+.upper-part .third-part .second{width: 50%;}
+.upper-part .third-part .second{position: relative;  width: 50%;}
+.upper-part .third-part .second i{font-size:16px;padding:5px;  position: absolute;  top: 40px;}
+.upper-part .third-part .second i{font-size:16px;padding:5px;  position: absolute;  top: 40px;}
+.upper-part .third-part .second h4{padding: 28px 10px 21px 33px;font-size: 21px}
+.upper-part .third-part .second h6 {margin: 0 5px 10px 0px; font-size: 13px;}
+.upper-part .third-part .second h5 {padding-left:10px; font-size: 12px;}
+.upper-part .third-part .second p{padding: 20px 10px 0px 10px; font-size: 15px; }
+.upper-part .third-part .second img{margin-left: 10px;}
+
+
+.upper-part .third-part .third{width: 50%;}
+.upper-part .third-part .third{position: relative;  width: 50%;}
+.upper-part .third-part .third i{font-size:16px;padding:5px;  position: absolute;  top: 40px;}
+.upper-part .third-part .third i{font-size:16px;padding:5px;  position: absolute;  top: 40px;}
+.upper-part .third-part .third h4{padding: 28px 10px 21px 33px;font-size: 21px}
+.upper-part .third-part .third h6 {margin: 0 5px 10px 0px; font-size: 13px;}
+.upper-part .third-part .third h5 {padding-left:10px; font-size: 12px;}
+.upper-part .third-part .third p{padding: 20px 10px 0px 10px; font-size: 15px; }
+.upper-part .third-part .third img{margin-left: 10px;}
+
+
+.upper-part .third-part .fourth{ width: 50%;}
+/* end upper part .. third part */
+/* end upper part */
+
+
+/* start ticker */
+.ticker-part{ overflow: hidden;}
+.ticker-part p{font-size: 12px;}
+.ticker-part p span:first-child{font-size: 14px;}
+.ticker-part p span:nth-child(2){font-size: 13px; margin-right: 5px;}
+/* end ticker */
+
+
+/* start down part */
+.down-part{background-image: none;}
+
+/* start white bg */
+.down-part .white-bg{width: 100%;}
+
+
+/* similar class */
+.down-part .white-bg .similar p {margin-bottom: 20px;}
+.down-part .white-bg .similar{margin-left: 15%;}
+.down-part .white-bg .similar span:nth-child(6) {margin-right: 15px;}
+.down-part .white-bg .similar span:nth-child(4), 
+.down-part .white-bg .similar span:last-child {font-size: 11px;}
+.down-part .white-bg .similar span:nth-child(6) { font-size: 12px;margin-right: 165px;}
+/* end similar class */
+
+.down-part .white-bg .first ul {right: 0px;}
+.down-part .white-bg .first h5 {font-size: 17px;}
+.down-part .white-bg .first span {font-size: 15px;}
+
+/* start class over-img */
+.over-img{left: 20%; bottom: 0px;}
+
+
+/* white bg sexth */
+.down-part .white-bg .sexth .last-part {padding: 60px 0px 25px 25px;}
+.down-part .white-bg .sexth .last-part h1{font-size: 35px;}
+.down-part .white-bg .sexth .last-part h3 {font-size: 24px;}
+/* end white bg*/
+
+
+/* start gray bg */
+.down-part .gray-bg{width: 100%; }
+
+.down-part .gray-bg .second{margin:81px 10px 30px 50px;}
+
+.over-img2{left: 191px; bottom: 0px;}
+
+.down-part .gray-bg .third i{ bottom: 50px;}
+.down-part .gray-bg .third img {right: 100px;}
+
+.down-part .gray-bg .fourth{margin:40px 10px 30px 70px;}
+.down-part .gray-bg .fourth .cover {width: 93%;}
+
+.down-part .gray-bg .fifth img{ right: 100px;}
+.down-part .gray-bg .fifth i{ bottom: 46px;}
+/* end gray bg*/
+/* end down part */
+
+
+/* start footer */
+footer .the-first{padding-top: 0px;}
+footer .the-first .first{width: 100%; padding-right: 5px;}
+footer .the-first .first p{margin-top: 15px;margin-bottom: 25px;}
+
+footer .the-first .second{width: 33.333%; padding:5px 10px 0px 0px;}
+footer .the-first .second h4{font-size: 17px;}
+footer .the-first .second h5{ padding-top: 3px; font-size: 17px;}
+
+footer .the-first .third{width:33.333%;padding:5px 10px 0px 0px;}
+footer .the-first .third h4{font-size: 17px; padding-left: 15px;}
+
+footer .the-first .fourth{width: 33.333%;padding:5px 10px 0px 0px;}
+footer .the-first .fourth h4{font-size: 17px;}
+footer .the-first .fourth p{margin-bottom:15px; font-size: 15px;}
+
+footer .the-first .fourth input[type="email"]{width: 70px; margin-bottom: 20px;}
+footer .the-first .fourth input[type="submit"]{ width: 45px;}
+
+footer .the-second p{width: 72%;margin-left: -10px;font-size: 10px;}
+footer .the-second span{font-size: 10px;}
+footer .the-second p:nth-child(2){width: 34%;margin-right: -20px;margin-left: -15px;}
+/* end footer */
+}
+ 
+
+
+
+/* small */
+/* Medium devices (tablets, 768px and up) The navbar toggle appears at this breakpoint */
+@media (min-width: 768px) and (max-width: 991px) {  
+ /* start  header , navbar , first part */
+header{height: 53px;}
+
+/* nav bar */
+nav .fa-2x {
+font-size: 1.5em ; position: absolute;top: 14px; left: 35px }
+
+.navbar{height: 53PX;}
+
+.the-navbar{width: 33%; padding-left: 14px;}
+.the-navbar h2 {margin-left: 50px; font-size: 20px; position: absolute; line-height: 53px;}
+
+.navbar-light .navbar-toggler {position: absolute; right: 10px;}
+
+.navbar-light .navbar-nav .nav-link  {
+background-color: #fff;
+border:none; 
+margin-left: 20px;
+padding: 3px 0px 3px 10px;
+position: relative;
+left: 287px;}
+
+.navbar .fa-search {
+    position: absolute;
+    right: -22px;
+    top: 383px;
+    width: 105px;
+    border: none;
+    margin: 10px;
+    background: #fff;
+    padding: 10px;
+}
+
+
+.navbar ul li:first-child{margin-left: 10px; margin-top: 40px;}
+.navbar ul li{width: 140px; border:none; margin:10px;}
+/* nav bar*/
+
+
+/* start upper part .. first part */
+.upper-part .first-part {padding-left: 20px;}
+.upper-part .first-part h1{margin-left: 20px; font-size: 20px;}
+
+.upper-part .first-part h1:first-child{
+padding-top: 40px;
+padding-bottom: 20px;
+font-size: 20px;}
+
+.upper-part .first-part .first h5 {margin-left: 0;}
+.upper-part .first-part .first span {
+display: block; 
+margin-top: 14px;
+margin-left: 0;}
+
+.upper-part .first-part .first img{margin-left: 100px; float: left;}
+
+.upper-part .first-part .last-img img {
+margin-left: 13px;
+margin-top: 5px;
+margin-bottom: 13px;
+width: 40px;
+height: 40px;}
+
+.upper-part .first-part .last-img h6 {top: 18px; margin-bottom: 20px;}
+/* end upper part .. first part */
+
+/* start upper part .. second part */
+.upper-part .second-part{position: relative;}
+.upper-part .second-part .first{width: 50%;}
+.upper-part .second-part .first i{font-size:18px; padding:8px;  position: absolute; top: 60px;}
+.upper-part .second-part .first h4{padding: 60px 20px 21px 40px;font-size: 21px}
+.upper-part .second-part .first h6 {margin: 0 5px 10px 0px; font-size: 13px;}
+.upper-part .second-part .first h5 {padding-left:40px; font-size: 12px;}
+.upper-part .second-part .first p{padding: 20px 46px 0px 40px; font-size: 15px; }
+.upper-part .second-part .first img{margin-left: 40px;}
+
+.upper-part .second-part .second{width: 50%;}
+.upper-part .second-part .second form {padding:130px 0px 0px 70px;}
+.upper-part .second-part .second form input[type="text"] {width: 150px;}
+.upper-part .second-part .second form label {font-size: 13px;}
+.upper-part .second-part .second form input[type="date"] {width: 60px;}
+.upper-part .second-part .second form span {font-size: 12px;}
+.upper-part .second-part .second form input[type="number"]{width: 55px; }
+.upper-part .second-part .second form h6:nth-child(3) {margin-right: 17px;}
+.upper-part .second-part .second form h6:nth-child(9){font-size: 12px;}
+.upper-part .second-part .second form h6:nth-child(10){ font-size: 11px;}
+.upper-part .second-part .second form h6:nth-child(11){font-size: 11px;}
+.upper-part .second-part .second form input[type="submit"]{width: 70px;}
+
+.upper-part .second-part .third{position: relative;  width: 50%;}
+.upper-part .second-part .third i{font-size:18px; padding:8px;  position: absolute; top: 60px;}
+.upper-part .second-part .third h4{padding: 60px 20px 21px 40px;font-size: 21px}
+.upper-part .second-part .third h6 {margin: 0 5px 10px 0px; font-size: 13px;}
+.upper-part .second-part .third h5 {padding-left:40px; font-size: 12px;}
+.upper-part .second-part .third p{padding: 20px 20px 0px 40px; font-size: 15px; }
+.upper-part .second-part .third img{margin-left: 40px;}
+
+.upper-part .second-part .fourth{width: 50%;}
+.upper-part .second-part .fourth .images ul {list-style: none; padding-top: 0;}
+.upper-part .second-part .fourth .images ul li {padding-top: 25px; margin-left: -15px;}
+.upper-part .second-part .fourth img {border-radius: 50%;}
+.upper-part .second-part .fourth .status ul{list-style: none; padding-left: 30px;}
+.upper-part .second-part .fourth .status p{padding-top: 5px; margin-right: 10px;}
+/* end upper part .. second part */
+
+
+/* start upper part .. third part */
+.upper-part .third-part .first{width:50%;}
+.upper-part .third-part .first .first-i{left: 25px !important;}
+.upper-part .third-part .first h6{margin-right: 30px; margin-left: 60px}
+.upper-part .third-part .first span {margin-left: 100px;}
+.upper-part .third-part .first .facebook h6 {margin-left: 55px;}
+.upper-part .third-part .first .google h6 {margin-left: 72px;}
+.upper-part .third-part .first .second-i{ right: 25px !important; }
+
+
+.upper-part .third-part .second{width: 50%;}
+.upper-part .third-part .second{position: relative;  width: 50%;}
+.upper-part .third-part .second i{font-size:18px; padding:8px;  position: absolute; top: 60px;}
+.upper-part .third-part .second h4{padding: 60px 20px 21px 40px;font-size: 21px}
+.upper-part .third-part .second h6 {margin: 0 5px 10px 0px; font-size: 13px;}
+.upper-part .third-part .second h5 {padding-left:40px; font-size: 12px;}
+.upper-part .third-part .second p{padding: 20px 20px 0px 40px; font-size: 15px; }
+.upper-part .third-part .second img{margin-left: 40px;}
+
+.upper-part .third-part .third{width: 50%;}
+.upper-part .third-part .third{position: relative;  width: 50%;}
+.upper-part .third-part .third i{font-size:18px; padding:8px;  position: absolute; top: 60px;}
+.upper-part .third-part .third h4{padding: 60px 20px 21px 40px;font-size: 21px}
+.upper-part .third-part .third h6 {margin: 0 5px 10px 0px; font-size: 13px; position: absolute; bottom: 63px;}
+.upper-part .third-part .third h5 {padding-left:40px; font-size: 12px;}
+.upper-part .third-part .third p{padding: 20px 60px 0px 40px; font-size: 15px; }
+.upper-part .third-part .third img{margin-left :40px; margin-top: 20px;}
+
+.upper-part .third-part .fourth{ width: 50%;}
+/* end upper part .. third part */
+/* end upper part */
+
+
+/* start ticker */
+.ticker-part{ overflow: hidden;}
+.ticker-part p{font-size: 12px;}
+.ticker-part p span:first-child{font-size: 14px;}
+.ticker-part p span:nth-child(2){font-size: 13px; margin-right: 5px;}
+/* end ticker */
+
+
+/* start down part */
+.down-part{background-image: none;}
+
+/* start white bg */
+.down-part .white-bg{width: 100%;}
+
+
+/* similar class */
+.down-part .white-bg .similar .left img{margin-left: 200px;}
+.down-part .white-bg .similar span:nth-child(6) {margin-right: 15px;}
+.down-part .white-bg .similar span:nth-child(4), 
+.down-part .white-bg .similar span:last-child {font-size: 11px;}
+.down-part .white-bg .similar span:nth-child(6) { font-size: 12px;margin-right: 13px;}
+/* end similar class */
+
+.down-part .white-bg .first ul {right: 0px;}
+.down-part .white-bg .first h5 {font-size: 17px;}
+.down-part .white-bg .first span {font-size: 15px;}
+
+/* start class over-img */
+.over-img{left: 278px; bottom: 0px;}
+
+
+/* white bg sexth */
+.down-part .white-bg .sexth .last-part {padding: 60px 0px 25px 25px;}
+.down-part .white-bg .sexth .last-part h1{font-size: 35px;}
+.down-part .white-bg .sexth .last-part h3 {font-size: 24px;}
+/* end white bg*/
+
+
+/* start gray bg */
+.down-part .gray-bg{width: 100%; margin-left: 10%; }
+
+.down-part .gray-bg .second{margin:81px 20% 34px 20%;}
+
+.over-img2{left: 191px; bottom: 0px;}
+
+.down-part .gray-bg .third i{ bottom: 96px; right: 9%;}
+.down-part .gray-bg .third img {right: 40%;}
+
+.down-part .gray-bg .fourth{margin:40px 20% 30px 20%;}
+.down-part .gray-bg .fourth .cover {width: 72.5%;}
+
+.down-part .gray-bg .fifth img{ right: 40%;}
+.down-part .gray-bg .fifth i{ bottom: 96px; right: 9%;}
+/* end gray bg*/
+/* end down part */
+
+
+/* start footer */
+footer .the-first{padding-top: 0px;}
+footer .the-first .first{width: 100%; padding-right: 5px;}
+footer .the-first .first p{margin-top: 15px;margin-bottom: 25px;}
+
+footer .the-first .second{width: 33.333%; padding:5px 10px 0px 0px;}
+footer .the-first .second h4{font-size: 17px;}
+footer .the-first .second h5{ padding-top: 3px; font-size: 17px;}
+
+footer .the-first .third{width:33.333%;padding:5px 10px 0px 0px;}
+footer .the-first .third h4{font-size: 17px; padding-left: 15px;}
+
+footer .the-first .fourth{width: 33.333%;padding:5px 10px 0px 0px;}
+footer .the-first .fourth h4{font-size: 17px;}
+footer .the-first .fourth p{margin-bottom:15px; font-size: 15px;}
+
+footer .the-first .fourth input[type="email"]{width: 70px; margin-bottom: 20px;}
+footer .the-first .fourth input[type="submit"]{ width: 45px;}
+
+footer .the-second p{width: 72%;margin-left: -10px;font-size: 10px;}
+footer .the-second span{font-size: 10px;}
+footer .the-second p:nth-child(2){width: 34%;margin-right: -20px;margin-left: -15px;}
+/* end footer */
+}
+ 
+
+
+/* medium */
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199px) { 
+ /* start  header , navbar , first part */
+header{height: 70px;}
+
+/* nav bar */
+nav .fa-2x {
+font-size: 1.5em ; position: absolute;top: 14px; left: 35px }
+
+.navbar{height: 70PX;}
+
+.the-navbar{width: 33%; padding-left: 14px;}
+.the-navbar h2 {margin-left: 50px; font-size: 26px; position: absolute; line-height: 70px; bottom: 10px;}
+
+
+
+
+/* nav bar*/
+
+
+/* start upper part .. first part */
+.upper-part .first-part {padding-left: 20px;}
+.upper-part .first-part h1{margin-left: 20px; font-size: 20px;}
+
+.upper-part .first-part h1:first-child{
+padding-top: 40px;
+padding-bottom: 20px;
+font-size: 20px;}
+
+.upper-part .first-part .first h5 {margin-left: 0;}
+.upper-part .first-part .first span {
+display: block; 
+margin-top: 14px;
+margin-left: 0;}
+
+.upper-part .first-part .first img{margin-left: 100px; float: left;}
+
+.upper-part .first-part .last-img img {
+margin-left: 13px;
+margin-top: 5px;
+margin-bottom: 13px;
+width: 40px;
+height: 40px;}
+
+.upper-part .first-part .last-img h6 {top: 18px; margin-bottom: 20px;}
+/* end upper part .. first part */
+
+/* start upper part .. second part */
+.upper-part .second-part{position: relative;}
+.upper-part .second-part .first{width: 50%;}
+.upper-part .second-part .first i{font-size:20px; padding:10px;  position: absolute; top: 60px;}
+.upper-part .second-part .first h4{padding: 70px 20px 21px 60px;font-size: 21px}
+.upper-part .second-part .first h6 {margin: 0 5px 10px 0px; font-size: 13px;}
+.upper-part .second-part .first h5 {padding-left:60px; font-size: 14px;}
+.upper-part .second-part .first p{padding: 20px 46px 0px 60px; font-size: 15px; }
+.upper-part .second-part .first img{margin-left: 60px;}
+
+.upper-part .second-part .second{width: 50%;}
+.upper-part .second-part .second form {padding:130px 0px 0px 130px;}
+.upper-part .second-part .second form input[type="text"] {width: 200px;}
+.upper-part .second-part .second form label {font-size: 15px;}
+.upper-part .second-part .second form input[type="date"] {width: 75px;}
+.upper-part .second-part .second form span {font-size: 14px;}
+.upper-part .second-part .second form input[type="number"]{width:60px; }
+.upper-part .second-part .second form h6:nth-child(3) {margin-right: 17px;}
+.upper-part .second-part .second form h6:nth-child(9){font-size: 14px;}
+.upper-part .second-part .second form h6:nth-child(10){ font-size: 13px;}
+.upper-part .second-part .second form h6:nth-child(11){font-size: 13px;}
+.upper-part .second-part .second form input[type="submit"]{width: 90px;}
+
+.upper-part .second-part .third{position: relative;  width: 50%;}
+.upper-part .second-part .third i{font-size:20px; padding:10px;  position: absolute; top: 60px;}
+.upper-part .second-part .third h4{padding: 70px 20px 21px 60px;font-size: 21px}
+.upper-part .second-part .third h6 {margin: 0 5px 10px 0px; font-size: 13px;}
+.upper-part .second-part .third h5 {padding-left:60px; font-size: 12px;}
+.upper-part .second-part .third p{padding: 20px 20px 0px 60px; font-size: 15px; }
+.upper-part .second-part .third img{margin-left: 60px;}
+
+.upper-part .second-part .fourth{width: 50%; padding: 50px 0 0 0;}
+.upper-part .second-part .fourth .images ul {list-style: none; padding-top: 0;}
+.upper-part .second-part .fourth .images ul li {padding-top: 6px; margin-left: 20px;}
+.upper-part .second-part .fourth img {border-radius: 50%;}
+.upper-part .second-part .fourth .status ul{list-style: none; padding-left: 30px;}
+.upper-part .second-part .fourth .status p{padding-top: 5px; margin-right: 10px;}
+/* end upper part .. second part */
+
+
+/* start upper part .. third part */
+.upper-part .third-part .first{width:50%;}
+.upper-part .third-part .first .first-i{left: 25px !important;}
+.upper-part .third-part .first h6{margin-right: 120px; margin-left: 60px}
+.upper-part .third-part .first span {margin-left: 120px;}
+.upper-part .third-part .first .facebook h6 {margin-left: 55px;}
+.upper-part .third-part .first .google h6 {margin-left: 72px; margin-right: 112px;}
+.upper-part .third-part .first .second-i{ right: 25px !important; }
+.upper-part .third-part .first .instgram h6 {margin-right: 116px;}
+
+.upper-part .third-part .second{width: 50%;}
+.upper-part .third-part .second{position: relative;  width: 50%;}
+.upper-part .third-part .second i{font-size:20px; padding:10px;  position: absolute; top: 60px;}
+.upper-part .third-part .second h4{padding: 70px 20px 21px 60px;font-size: 21px}
+.upper-part .third-part .second h6 {margin: 0 5px 10px 0px; font-size: 13px;}
+.upper-part .third-part .second h5 {padding-left:60px; font-size: 12px;}
+.upper-part .third-part .second p{padding: 20px 20px 0px 60px; font-size: 15px; }
+.upper-part .third-part .second img{margin-left: 60px;}
+
+.upper-part .third-part .third{width: 50%;}
+.upper-part .third-part .third{position: relative;  width: 50%;}
+.upper-part .third-part .third i{font-size:20px; padding:10px;  position: absolute; top: 60px;}
+.upper-part .third-part .third h4{padding: 70px 20px 21px 60px;font-size: 21px}
+.upper-part .third-part .third h6 {margin: 0 5px 10px 0px; font-size: 13px; position: absolute; bottom: 63px;}
+.upper-part .third-part .third h5 {padding-left:60px; font-size: 12px;}
+.upper-part .third-part .third p{padding: 20px 60px 0px 60px; font-size: 15px; }
+.upper-part .third-part .third img{margin-left :60px; margin-top: 20px;}
+
+.upper-part .third-part .fourth{ width: 50%;}
+/* end upper part .. third part */
+/* end upper part */
+
+
+/* start ticker */
+.ticker-part{ overflow: hidden;}
+.ticker-part p{font-size: 12px;}
+.ticker-part p span:first-child{font-size: 14px;}
+.ticker-part p span:nth-child(2){font-size: 13px; margin-right: 5px;}
+/* end ticker */
+
+
+/* start down part */
+.down-part{background-image: none;}
+
+/* start white bg */
+.down-part .white-bg{width: 100%;}
+
+
+/* similar class */
+.down-part .white-bg .similar .left img{margin-left: 0px;}
+.down-part .white-bg .similar span:nth-child(6) {margin-right: 15px;}
+.down-part .white-bg .similar span:nth-child(4), 
+.down-part .white-bg .similar span:last-child {font-size: 11px;}
+.down-part .white-bg .similar span:nth-child(6) { font-size: 12px;margin-right: 13px;}
+/* end similar class */
+
+.down-part .white-bg .first ul {right: 0px;}
+.down-part .white-bg .first h5 {font-size: 17px;}
+.down-part .white-bg .first span {font-size: 15px;}
+
+/* start class over-img */
+.over-img{left: 138px; bottom:41px;}
+
+
+/* white bg sexth */
+.down-part .white-bg .sexth .last-part {padding: 60px 0px 25px 25px;}
+.down-part .white-bg .sexth .last-part h1{font-size: 35px;}
+.down-part .white-bg .sexth .last-part h3 {font-size: 24px;}
+/* end white bg*/
+
+
+/* start gray bg */
+.down-part .gray-bg{width: 100%; margin-left: 10%; }
+
+.down-part .gray-bg .second{margin:81px 20% 34px 20%;}
+
+.over-img2{left: 191px; bottom: 0px;}
+
+.down-part .gray-bg .third i{ bottom: 96px; right: 9%;}
+.down-part .gray-bg .third img {right: 40%;}
+
+.down-part .gray-bg .fourth{margin:40px 20% 30px 20%;}
+.down-part .gray-bg .fourth .cover {width: 55%;}
+
+.down-part .gray-bg .fifth img{ right: 40%;}
+.down-part .gray-bg .fifth i{ bottom: 96px; right: 9%;}
+/* end gray bg*/
+/* end down part */
+
+
+/* start footer */
+footer .the-first{padding-top: 0px;}
+footer .the-first .first{width: 100%; padding-right: 5px;}
+footer .the-first .first p{margin-top: 15px;margin-bottom: 25px;}
+
+footer .the-first .second{width: 33.333%; padding:5px 10px 0px 0px;}
+footer .the-first .second h4{font-size: 17px;}
+footer .the-first .second h5{ padding-top: 3px; font-size: 17px;}
+
+footer .the-first .third{width:33.333%;padding:5px 10px 0px 0px;}
+footer .the-first .third h4{font-size: 17px; padding-left: 15px;}
+
+footer .the-first .fourth{width: 33.333%;padding:5px 10px 0px 0px;}
+footer .the-first .fourth h4{font-size: 17px;}
+footer .the-first .fourth p{margin-bottom:15px; font-size: 15px;}
+
+footer .the-first .fourth input[type="email"]{width: 70px; margin-bottom: 20px;}
+footer .the-first .fourth input[type="submit"]{ width: 45px;}
+
+footer .the-second p{width: 72%;margin-left: -10px;font-size: 10px;}
+footer .the-second span{font-size: 10px;}
+footer .the-second p:nth-child(2){width: 34%;margin-right: -173px;}
+/* end footer */
+}
+
+ 
+
+/* Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {  
+  
+}
